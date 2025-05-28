@@ -1,0 +1,6 @@
+Input
+fecha inicio: Oct 30 20:00:00
+fecha fin: Oct 30 21:17:07
+
+Output
+Resultado: 0 Registros
